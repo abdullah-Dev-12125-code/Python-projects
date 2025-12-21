@@ -36,7 +36,7 @@ It’s designed to showcase my coding growth, problem-solving, and project-build
 - **Name:** Abdullah  
 - **Started Learning:** 01-08-2025  
 - **GitHub:** [@abdullah-Dev-12125-code](https://github.com/abdullah-Dev-12125-code)  
-- **Email:** your.email@example.com  
+- **Email:** abdullahdev12125@gmail.com 
 
 ---
 
