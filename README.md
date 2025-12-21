@@ -51,7 +51,8 @@ It’s designed to showcase my coding growth, problem-solving, and project-build
 
 ## 🖼️ Visual Preview
 
-![Coding GIF](https://media.tenor.com/IEsIm6lX5rkAAAAM/code-coding.gif)
+![Coding GIF](https://media.tenor.com/Z9244GfGlIEAAAAM/coding-programmer.gif)
+
 
 
 
