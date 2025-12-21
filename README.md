@@ -51,11 +51,12 @@ It’s designed to showcase my coding growth, problem-solving, and project-build
 
 ## 🖼️ Visual Preview
 
-![Coding Vibes](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+![Coder Typing](https://media.tenor.com/weFr13p4guUAAAAM/coding-typing.gif)
 
 
 
-*(You can replace this GIF with your own project screenshots for better impact)*
+
+*(Vibes)*
 
 ---
 
