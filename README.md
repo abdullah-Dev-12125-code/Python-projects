@@ -51,7 +51,8 @@ It’s designed to showcase my coding growth, problem-solving, and project-build
 
 ## 🖼️ Visual Preview
 
-![Coding GIF](https://media.giphy.com/media/your‑chosen‑gif.gif)
+![Coding GIF](https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif)
+
 
 *(You can replace this GIF with your own project screenshots for better impact)*
 
