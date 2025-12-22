@@ -29,6 +29,7 @@ It’s designed to showcase my coding growth, problem-solving, and project-build
 | 06_school_projects | Python projects for school assignments |
 | 07_fun_experiments | Experiments, fun scripts, and hacks |
 | 08_quizzes | Quiz exercises and challenges |
+| 09_Physics_Math| Physics & Mathematics Computational Models| 
 
 ---
 
