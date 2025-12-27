@@ -1,0 +1,6 @@
+Name,Age,Salary,Email,JoinDate
+Alice,25.0,50000.0,alice@example.com,2020-01-15
+Unknown,22.0,56000.0,charlie@example.com,2020-01-01
+Charlie,28.5,45000.0,unknown@example.com,2020-01-01
+Bob,29.0,60000.0,bob@example.com,2019-05-20
+Trudy,28.5,52000.0,trudy@example.com,2020-01-01
