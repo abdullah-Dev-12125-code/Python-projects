@@ -1,0 +1,18 @@
+import numpy as np 
+Sensor_1 = np.random.randint(10,35, size=(10))
+sensor_multiple = np.random.randint(10,40, size=(5,10))
+sensor_multiple_locations = np.random.randint(10,50, size=(2,5,10))
+
+print('-'*50)
+print("\t\tData in 1D array")
+print('-'*50)
+print(Sensor_1)
+print('-'*50)
+print("\t\tData in 2D array")
+print('-'*50)
+print(sensor_multiple)
+print('-'*50)
+print("\t\tData in 3D array")
+print('-'*50)
+print(sensor_multiple_locations)
+print('-'*50)
